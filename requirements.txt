@@ -1,0 +1,10 @@
+opencv-python
+torch
+torchvision
+ultralytics  # For YOLOv8
+paddlepaddle
+paddleocr
+shapely      # Useful for bbox operations (overlap etc.)
+pyyaml       # If using YAML config
+# Optional: transformers (if exploring LayoutLM etc.)
+# Optional: labelme or other annotation tool dependencies if processing annotation files

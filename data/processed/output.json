@@ -1,0 +1,430 @@
+{
+  "info": {
+    "description": "Comprehensive Retail & Advertising Dataset PoC Output"
+  },
+  "images": [
+    {
+      "id": 644026,
+      "file_name": "IMG_8955.jpg",
+      "environment": "unknown",
+      "gps": null,
+      "datetime": "2025-05-02T11:19:16.822696"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "store_facade"
+    },
+    {
+      "id": 2,
+      "name": "posm"
+    },
+    {
+      "id": 3,
+      "name": "product"
+    },
+    {
+      "id": 4,
+      "name": "sku"
+    },
+    {
+      "id": 5,
+      "name": "brand_ambassador"
+    },
+    {
+      "id": 6,
+      "name": "text"
+    },
+    {
+      "id": 7,
+      "name": "store_interior"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 644026,
+      "category_id": null,
+      "bbox": [
+        918.0,
+        1116.0,
+        1450.0,
+        179.0
+      ],
+      "attributes": {
+        "store_name": "Unknown Store",
+        "store_type": "Unknown",
+        "chain_status": "Unknown",
+        "environment": "Unknown",
+        "posm_type": "Unknown",
+        "brand_name": "Unknown Brand",
+        "size_dimensions": "Unknown",
+        "color_scheme": "Unknown",
+        "illumination": "Unknown",
+        "condition": "Unknown",
+        "product_category": "Unknown",
+        "color": "Unknown",
+        "sku_model": "Unknown SKU",
+        "variant": "Unknown",
+        "ambassador_name": "Unknown_Celebrity",
+        "brand_association": "Unknown Brand",
+        "text_content": "LPHARMACYS",
+        "language": "en",
+        "text_type": "Unknown"
+      }
+    },
+    {
+      "id": 2,
+      "image_id": 644026,
+      "category_id": null,
+      "bbox": [
+        935.0,
+        1293.0,
+        1424.0,
+        149.0
+      ],
+      "attributes": {
+        "store_name": "Unknown Store",
+        "store_type": "Unknown",
+        "chain_status": "Unknown",
+        "environment": "Unknown",
+        "posm_type": "Unknown",
+        "brand_name": "Unknown Brand",
+        "size_dimensions": "Unknown",
+        "color_scheme": "Unknown",
+        "illumination": "Unknown",
+        "condition": "Unknown",
+        "product_category": "Unknown",
+        "color": "Unknown",
+        "sku_model": "Unknown SKU",
+        "variant": "Unknown",
+        "ambassador_name": "Unknown_Celebrity",
+        "brand_association": "Unknown Brand",
+        "text_content": "VARDHMAN CHEMIST",
+        "language": "en",
+        "text_type": "Unknown"
+      }
+    },
+    {
+      "id": 3,
+      "image_id": 644026,
+      "category_id": null,
+      "bbox": [
+        494.0,
+        1369.0,
+        266.0,
+        46.0
+      ],
+      "attributes": {
+        "store_name": "Unknown Store",
+        "store_type": "Unknown",
+        "chain_status": "Unknown",
+        "environment": "Unknown",
+        "posm_type": "Unknown",
+        "brand_name": "Unknown Brand",
+        "size_dimensions": "Unknown",
+        "color_scheme": "Unknown",
+        "illumination": "Unknown",
+        "condition": "Unknown",
+        "product_category": "Unknown",
+        "color": "Unknown",
+        "sku_model": "Unknown SKU",
+        "variant": "Unknown",
+        "ambassador_name": "Unknown_Celebrity",
+        "brand_association": "Unknown Brand",
+        "text_content": "Mob.9625606996",
+        "language": "en",
+        "text_type": "Unknown"
+      }
+    },
+    {
+      "id": 4,
+      "image_id": 644026,
+      "category_id": null,
+      "bbox": [
+        9.0,
+        1403.0,
+        300.0,
+        88.0
+      ],
+      "attributes": {
+        "store_name": "Unknown Store",
+        "store_type": "Unknown",
+        "chain_status": "Unknown",
+        "environment": "Unknown",
+        "posm_type": "Unknown",
+        "brand_name": "Unknown Brand",
+        "size_dimensions": "Unknown",
+        "color_scheme": "Unknown",
+        "illumination": "Unknown",
+        "condition": "Unknown",
+        "product_category": "Unknown",
+        "color": "Unknown",
+        "sku_model": "Unknown SKU",
+        "variant": "Unknown",
+        "ambassador_name": "Unknown_Celebrity",
+        "brand_association": "Unknown Brand",
+        "text_content": "RMA",
+        "language": "en",
+        "text_type": "Unknown"
+      }
+    },
+    {
+      "id": 5,
+      "image_id": 644026,
+      "category_id": null,
+      "bbox": [
+        576.0,
+        1411.0,
+        189.0,
+        42.0
+      ],
+      "attributes": {
+        "store_name": "Unknown Store",
+        "store_type": "Unknown",
+        "chain_status": "Unknown",
+        "environment": "Unknown",
+        "posm_type": "Unknown",
+        "brand_name": "Unknown Brand",
+        "size_dimensions": "Unknown",
+        "color_scheme": "Unknown",
+        "illumination": "Unknown",
+        "condition": "Unknown",
+        "product_category": "Unknown",
+        "color": "Unknown",
+        "sku_model": "Unknown SKU",
+        "variant": "Unknown",
+        "ambassador_name": "Unknown_Celebrity",
+        "brand_association": "Unknown Brand",
+        "text_content": "7011297364",
+        "language": "en",
+        "text_type": "Unknown"
+      }
+    },
+    {
+      "id": 6,
+      "image_id": 644026,
+      "category_id": null,
+      "bbox": [
+        1004.0,
+        1415.0,
+        1295.0,
+        102.0
+      ],
+      "attributes": {
+        "store_name": "Unknown Store",
+        "store_type": "Unknown",
+        "chain_status": "Unknown",
+        "environment": "Unknown",
+        "posm_type": "Unknown",
+        "brand_name": "Unknown Brand",
+        "size_dimensions": "Unknown",
+        "color_scheme": "Unknown",
+        "illumination": "Unknown",
+        "condition": "Unknown",
+        "product_category": "Unknown",
+        "color": "Unknown",
+        "sku_model": "Unknown SKU",
+        "variant": "Unknown",
+        "ambassador_name": "Unknown_Celebrity",
+        "brand_association": "Unknown Brand",
+        "text_content": "PHARMACYMEDICINECOSMETICSURGICAL",
+        "language": "en",
+        "text_type": "Unknown"
+      }
+    },
+    {
+      "id": 7,
+      "image_id": 644026,
+      "category_id": null,
+      "bbox": [
+        4.0,
+        1499.0,
+        305.0,
+        47.0
+      ],
+      "attributes": {
+        "store_name": "Unknown Store",
+        "store_type": "Unknown",
+        "chain_status": "Unknown",
+        "environment": "Unknown",
+        "posm_type": "Unknown",
+        "brand_name": "Unknown Brand",
+        "size_dimensions": "Unknown",
+        "color_scheme": "Unknown",
+        "illumination": "Unknown",
+        "condition": "Unknown",
+        "product_category": "Unknown",
+        "color": "Unknown",
+        "sku_model": "Unknown SKU",
+        "variant": "Unknown",
+        "ambassador_name": "Unknown_Celebrity",
+        "brand_association": "Unknown Brand",
+        "text_content": "ADVOCATE",
+        "language": "en",
+        "text_type": "Unknown"
+      }
+    },
+    {
+      "id": 8,
+      "image_id": 644026,
+      "category_id": null,
+      "bbox": [
+        438.0,
+        1495.0,
+        314.0,
+        42.0
+      ],
+      "attributes": {
+        "store_name": "Unknown Store",
+        "store_type": "Unknown",
+        "chain_status": "Unknown",
+        "environment": "Unknown",
+        "posm_type": "Unknown",
+        "brand_name": "Unknown Brand",
+        "size_dimensions": "Unknown",
+        "color_scheme": "Unknown",
+        "illumination": "Unknown",
+        "condition": "Unknown",
+        "product_category": "Unknown",
+        "color": "Unknown",
+        "sku_model": "Unknown SKU",
+        "variant": "Unknown",
+        "ambassador_name": "Unknown_Celebrity",
+        "brand_association": "Unknown Brand",
+        "text_content": "90/76.Malviya Noga",
+        "language": "en",
+        "text_type": "Unknown"
+      }
+    },
+    {
+      "id": 9,
+      "image_id": 644026,
+      "category_id": null,
+      "bbox": [
+        498.0,
+        1529.0,
+        267.0,
+        42.0
+      ],
+      "attributes": {
+        "store_name": "Unknown Store",
+        "store_type": "Unknown",
+        "chain_status": "Unknown",
+        "environment": "Unknown",
+        "posm_type": "Unknown",
+        "brand_name": "Unknown Brand",
+        "size_dimensions": "Unknown",
+        "color_scheme": "Unknown",
+        "illumination": "Unknown",
+        "condition": "Unknown",
+        "product_category": "Unknown",
+        "color": "Unknown",
+        "sku_model": "Unknown SKU",
+        "variant": "Unknown",
+        "ambassador_name": "Unknown_Celebrity",
+        "brand_association": "Unknown Brand",
+        "text_content": "New Delhi-110017",
+        "language": "en",
+        "text_type": "Unknown"
+      }
+    },
+    {
+      "id": 10,
+      "image_id": 644026,
+      "category_id": null,
+      "bbox": [
+        0.0,
+        1541.0,
+        318.0,
+        51.0
+      ],
+      "attributes": {
+        "store_name": "Unknown Store",
+        "store_type": "Unknown",
+        "chain_status": "Unknown",
+        "environment": "Unknown",
+        "posm_type": "Unknown",
+        "brand_name": "Unknown Brand",
+        "size_dimensions": "Unknown",
+        "color_scheme": "Unknown",
+        "illumination": "Unknown",
+        "condition": "Unknown",
+        "product_category": "Unknown",
+        "color": "Unknown",
+        "sku_model": "Unknown SKU",
+        "variant": "Unknown",
+        "ambassador_name": "Unknown_Celebrity",
+        "brand_association": "Unknown Brand",
+        "text_content": "IHIGHCOURT",
+        "language": "en",
+        "text_type": "Unknown"
+      }
+    },
+    {
+      "id": 11,
+      "image_id": 644026,
+      "category_id": null,
+      "bbox": [
+        1133.0,
+        1687.0,
+        711.0,
+        107.0
+      ],
+      "attributes": {
+        "store_name": "Unknown Store",
+        "store_type": "Unknown",
+        "chain_status": "Unknown",
+        "environment": "Unknown",
+        "posm_type": "Unknown",
+        "brand_name": "Unknown Brand",
+        "size_dimensions": "Unknown",
+        "color_scheme": "Unknown",
+        "illumination": "Unknown",
+        "condition": "Unknown",
+        "product_category": "Unknown",
+        "color": "Unknown",
+        "sku_model": "Unknown SKU",
+        "variant": "Unknown",
+        "ambassador_name": "Unknown_Celebrity",
+        "brand_association": "Unknown Brand",
+        "text_content": "FVARDHMAN CHEMIST+",
+        "language": "en",
+        "text_type": "Unknown"
+      }
+    },
+    {
+      "id": 12,
+      "image_id": 644026,
+      "category_id": null,
+      "bbox": [
+        1578.0,
+        2099.0,
+        212.0,
+        100.0
+      ],
+      "attributes": {
+        "store_name": "Unknown Store",
+        "store_type": "Unknown",
+        "chain_status": "Unknown",
+        "environment": "Unknown",
+        "posm_type": "Unknown",
+        "brand_name": "Unknown Brand",
+        "size_dimensions": "Unknown",
+        "color_scheme": "Unknown",
+        "illumination": "Unknown",
+        "condition": "Unknown",
+        "product_category": "Unknown",
+        "color": "Unknown",
+        "sku_model": "Unknown SKU",
+        "variant": "Unknown",
+        "ambassador_name": "Unknown_Celebrity",
+        "brand_association": "Unknown Brand",
+        "text_content": "CHEMIS",
+        "language": "en",
+        "text_type": "Unknown"
+      }
+    }
+  ]
+}
