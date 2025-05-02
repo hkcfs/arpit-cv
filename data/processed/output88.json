@@ -1,0 +1,110 @@
+{
+  "info": {
+    "description": "Comprehensive Retail & Advertising Dataset PoC Output"
+  },
+  "images": [
+    {
+      "id": 930901,
+      "file_name": "IMG_8836.jpg",
+      "environment": "unknown",
+      "gps": null,
+      "datetime": "2025-05-02T12:13:34.363882"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "store_facade"
+    },
+    {
+      "id": 2,
+      "name": "posm"
+    },
+    {
+      "id": 3,
+      "name": "product"
+    },
+    {
+      "id": 4,
+      "name": "sku"
+    },
+    {
+      "id": 5,
+      "name": "brand_ambassador"
+    },
+    {
+      "id": 6,
+      "name": "text"
+    },
+    {
+      "id": 7,
+      "name": "store_interior"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 930901,
+      "category_id": null,
+      "bbox": [
+        184.0,
+        1096.0,
+        182.0,
+        110.0
+      ],
+      "attributes": {
+        "store_name": "Unknown Store",
+        "store_type": "Unknown",
+        "chain_status": "Unknown",
+        "environment": "Unknown",
+        "posm_type": "Unknown",
+        "brand_name": "Unknown Brand",
+        "size_dimensions": "Unknown",
+        "color_scheme": "Unknown",
+        "illumination": "Unknown",
+        "condition": "Unknown",
+        "product_category": "Unknown",
+        "color": "Unknown",
+        "sku_model": "Unknown SKU",
+        "variant": "Unknown",
+        "ambassador_name": "Unknown_Celebrity",
+        "brand_association": "Unknown Brand",
+        "text_content": "Jnigurn",
+        "language": "en",
+        "text_type": "Unknown"
+      }
+    },
+    {
+      "id": 2,
+      "image_id": 930901,
+      "category_id": null,
+      "bbox": [
+        2023.0,
+        3977.0,
+        43.0,
+        42.0
+      ],
+      "attributes": {
+        "store_name": "Unknown Store",
+        "store_type": "Unknown",
+        "chain_status": "Unknown",
+        "environment": "Unknown",
+        "posm_type": "Unknown",
+        "brand_name": "Unknown Brand",
+        "size_dimensions": "Unknown",
+        "color_scheme": "Unknown",
+        "illumination": "Unknown",
+        "condition": "Unknown",
+        "product_category": "Unknown",
+        "color": "Unknown",
+        "sku_model": "Unknown SKU",
+        "variant": "Unknown",
+        "ambassador_name": "Unknown_Celebrity",
+        "brand_association": "Unknown Brand",
+        "text_content": "OF",
+        "language": "en",
+        "text_type": "Unknown"
+      }
+    }
+  ]
+}

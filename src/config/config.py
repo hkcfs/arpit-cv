@@ -1,10 +1,10 @@
 # Model Paths
-YOLO_MODEL_PATH = 'models/object_detection/yolo11x.pt' # Path to your trained YOLO model
+YOLO_MODEL_PATH = 'models/object_detection/best.pt' # Path to your trained YOLO model
 # PaddleOCR models are usually downloaded automatically, but can be configured
 
 # Confidence Thresholds
-DETECTION_CONFIDENCE_THRESHOLD = 0.5
-OCR_CONFIDENCE_THRESHOLD = 0.5
+DETECTION_CONFIDENCE_THRESHOLD = 0.3
+OCR_CONFIDENCE_THRESHOLD = 0.3
 
 # NMS Threshold
 NMS_THRESHOLD = 0.4
